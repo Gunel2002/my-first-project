@@ -1,0 +1,8 @@
+C:\Users\GUNEL\source\repos\8888888888\8888888888\bin\Debug\8888888888.exe.config
+C:\Users\GUNEL\source\repos\8888888888\8888888888\bin\Debug\8888888888.exe
+C:\Users\GUNEL\source\repos\8888888888\8888888888\bin\Debug\8888888888.pdb
+C:\Users\GUNEL\source\repos\8888888888\8888888888\obj\Debug\8888888888.csproj.AssemblyReference.cache
+C:\Users\GUNEL\source\repos\8888888888\8888888888\obj\Debug\8888888888.csproj.SuggestedBindingRedirects.cache
+C:\Users\GUNEL\source\repos\8888888888\8888888888\obj\Debug\8888888888.csproj.CoreCompileInputs.cache
+C:\Users\GUNEL\source\repos\8888888888\8888888888\obj\Debug\8888888888.exe
+C:\Users\GUNEL\source\repos\8888888888\8888888888\obj\Debug\8888888888.pdb
